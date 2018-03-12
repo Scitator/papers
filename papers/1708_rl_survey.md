@@ -85,7 +85,7 @@ Things to thing about:
 
 -
 
-29.  [Yan Duan, John Schulman, Xi Chen, Peter L Bartlett, Ilya Sutskever, and Pieter Abbeel. RL2 : Fast Reinforcement Learning via Slow Reinforcement Learning. In NIPS Workshop on Deep Reinforcement Learning, 2016.](RL2 : Fast Reinforcement Learning via Slow Reinforcement Learning)
+29.  [Yan Duan, John Schulman, Xi Chen, Peter L Bartlett, Ilya Sutskever, and Pieter Abbeel. RL2 : Fast Reinforcement Learning via Slow Reinforcement Learning. In NIPS Workshop on Deep Reinforcement Learning, 2016.](https://arxiv.org/abs/1611.02779)
 
 
 -
@@ -113,7 +113,7 @@ Things to thing about:
 
 -
 
-78. [Yuxi Li. Deep Reinforcement Learning: An Overview. arXiv:1701.07274, 2017.](Yuxi Li. Deep Reinforcement Learning: An Overview)
+78. [Yuxi Li. Deep Reinforcement Learning: An Overview. arXiv:1701.07274, 2017.](https://arxiv.org/abs/1701.07274)
 
 
 -
@@ -130,7 +130,7 @@ Things to thing about:
 
 -
 
-98. [Emilio Parisotto and Ruslan Salakhutdinov. Neural Map: Structured Memory for Deep Reinforcement Learning. arXiv:1702.08360, 2017.](Neural Map: Structured Memory for Deep Reinforcement Learning)
+98. [Emilio Parisotto and Ruslan Salakhutdinov. Neural Map: Structured Memory for Deep Reinforcement Learning. arXiv:1702.08360, 2017.](https://arxiv.org/abs/1702.08360)
 
 
 -
