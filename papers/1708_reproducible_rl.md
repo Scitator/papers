@@ -38,4 +38,4 @@ Video: https://vimeo.com/252185490
 
 Presentation: https://drive.google.com/file/d/1ANKnC-EFDbbPr04xHl7LmEBtD6dKw4vK/view
 
-Review (in russian): https://www.youtube.com/watch?v=FVX7qLe-fZ8
+Review by [Sergey Ovcharenko](https://github.com/dudevil) (in russian): https://www.youtube.com/watch?v=FVX7qLe-fZ8
