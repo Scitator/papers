@@ -66,7 +66,7 @@ Current Research and challenges:
 
 ##### Afterworlds
 
-Things to thing about:
+Things to think about:
 
 - Meta learning.
 - Multi-agent RL and self-play.
