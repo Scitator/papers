@@ -8,7 +8,7 @@
 - Really cool paper to confirm your PhD research proposals :)
 - Lots of interesting links.
 
-##### Highlights
+##### Notes
 
 MDP:
 

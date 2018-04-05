@@ -10,7 +10,7 @@
   - NIPS 2017 - https://nurture.ai/nips-challenge/
   - ICLR 2018 - http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html
 
-##### Highlights
+##### Notes
 
 Main aspects of reproducibility  (top 5):
 
@@ -27,7 +27,7 @@ How to measure RL agent performance?
 
 ##### Afterworlds
 
-Things to think about:
+Questions:
 
 - Does Google have `from tensorflow.private import rl_golden_seeds`?
 - How can TRPO'15 implementation be better then TRPO'17 one?
