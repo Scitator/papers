@@ -83,4 +83,4 @@ Questions
 
 
 
-Review (in russian): https://youtu.be/nDsDzADmSzk
+Review by [cydoroga](tpg.cydoroga@gmail.com) (in russian): https://youtu.be/nDsDzADmSzk

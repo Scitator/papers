@@ -9,6 +9,7 @@
 - New DL field challenge - **reproducibility**:
   - NIPS 2017 - https://nurture.ai/nips-challenge/
   - ICLR 2018 - http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html
+- RL needs standard **well-tuned baseline** algorithms
 
 ##### Notes
 
