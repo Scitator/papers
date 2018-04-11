@@ -30,9 +30,9 @@ Proposed solution
 
 Algorithms
 
-![alt text](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo/a1.png)
+![alt text](./1802_me_trpo/a1.png)
 
-![alt text](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo/a2.png)
+![alt text](./1802_me_trpo/a2.png)
 
 Tricks
 
@@ -42,11 +42,11 @@ Tricks
 
 Comparison with SOTAs
 
-![alt text](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo/f2.png)
+![alt text](./1802_me_trpo/f2.png)
 
 Effect of the number of pseudo-envs
 
-![alt text](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo/f4.png)
+![alt text](./1802_me_trpo/f4.png)
 
 ---
 
@@ -63,7 +63,7 @@ Appendix
 
 Training process
 
-![alt text](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo/f5.png)
+![alt text](./1802_me_trpo/f5.png)
 
 *what about the policy validation trick?*
 
