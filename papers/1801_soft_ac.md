@@ -54,6 +54,8 @@ For policy weighted Gaussian mixture were used:
 
 ![alt text](./1801_soft_ac/policy.png)
 
+UDP: It's possible that *mixture* of gaussians we used just for approach generalization. It's interesting to see learned gaussians weights. (It's possible, that for tested envs there were only one main gaussian learned and other with 0-weights).
+
 ---
 
 ###### Results
@@ -95,4 +97,4 @@ T. Haarnoja, H. Tang, P. Abbeel, and S. Levine. [Reinforcement learning with dee
 
 [NIPS video](https://vimeo.com/252185258)
 
-Review by (in russian): https://www.youtube.com/watch?v=NiTJOw1aST4
+Review by [Aleksey Grinchuk](https://github.com/AlexGrinch) (in russian): https://www.youtube.com/watch?v=NiTJOw1aST4
