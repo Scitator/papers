@@ -1,3 +1,7 @@
+#### 2018-04
+- DORA The Explorer: Directed Outreaching Reinforcement Action-Selection [[arxiv](https://arxiv.org/abs/1804.04012)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1804_dora.md)]
+
+
 #### 2018-02
 
 - Model-Ensemble Trust-Region Policy Optimization [[arxiv](https://arxiv.org/abs/1802.10592)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo.md)]
