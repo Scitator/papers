@@ -2,11 +2,11 @@
 
 ##### TLDR
 
-As we know, RNNs are commonly used for sequential data modeling in the DL field. Baseline LSTM-like architectures were the most standard approach for this task. Nevertheless, time goes fast and nowadays we see a lot of experiments with CNN and Attention models for sequential data processing. With this idea, authors present their study of systematic comparison between CNNs (more concrete, TCNs - Temporal Convolutional Networks) and RNNs architectures of the variety of tasks.
+As we know, RNNs are commonly used for sequential data modeling in the DL field. Baseline LSTM-like architectures were a standard approach for this task. Nevertheless, time goes fast and nowadays we see a lot of experiments with CNN and Attention models for sequential data processing. With this idea, authors present their study of systematic comparison between CNNs (more concrete, TCNs - Temporal Convolutional Networks) and RNNs architectures of the variety of tasks.
 
 - appendix with all interesting stuff and hyperparameters
 - article with [source code](https://github.com/locuslab/TCN) - great! Pytorch - great x2! clear code implementation - great x200!
-- article of the 1st-year PhD student - really cool achievement (article, appendix, code - all best practices for DL research, as for me)
+- article from the 1st-year PhD student - really cool achievement (article, appendix, code - all best practices for DL research, as for me)
 
 ##### Notes
 
@@ -51,7 +51,7 @@ Interesting fact - grid search was used to find good set of hyperparameters for 
 
 ##### Afterworlds
 
-- if you know the length distribution of your data, it's time to try TCNs for your problem (as for me, pure dynamic lengths are almost never used in practical applications)
+- If you know the length distribution of your data, it's time to try TCNs for your problem (as for me, pure dynamic lengths are almost never used in practical applications)
 - It's interesting to see experiments with pretrained W2V for LM tasks
 - Due to the TCNs advantages, they can be a real competitor for RNNs field tasks.
 
