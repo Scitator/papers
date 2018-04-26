@@ -48,15 +48,19 @@ Additional assumption - macro-goals.
 ###### Experiments & Results
 
 Baselines
+
 ![alt text](./1803_behavioral_cloning/baselines.png)
 
 Comparison
+
 ![alt text](./1803_behavioral_cloning/t2.png)
 
 Cooperation
+
 ![alt text](./1803_behavioral_cloning/cooperation.png)
 
 Multimodal behavior
+
 ![alt text](./1803_behavioral_cloning/multimodal.png)
 
 ##### Afterworlds
