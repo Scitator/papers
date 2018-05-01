@@ -1,5 +1,6 @@
 #### 2018-04
 - DORA The Explorer: Directed Outreaching Reinforcement Action-Selection [[arxiv](https://arxiv.org/abs/1804.04012)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1804_dora.md)]
+- Gotta Learn Fast: A New Benchmark for Generalization in RL [[arxiv](https://arxiv.org/abs/1804.03720)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1804_gotta_learn_fast.md)]
 
 #### 2018-03
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [[arxiv](https://arxiv.org/abs/1803.01271)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_cnn_vs_rnn.md)]
