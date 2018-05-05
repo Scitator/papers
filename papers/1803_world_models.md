@@ -45,4 +45,4 @@ As for me, it is quite interesting to see more and more approaches of transferin
 
 ##### Interesting links
 
-Demo - [worldmodels.github.io](worldmodels.github.io/)
+Demo - [worldmodels.github.io](https://worldmodels.github.io/)
