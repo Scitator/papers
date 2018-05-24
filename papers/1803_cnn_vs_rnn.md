@@ -49,7 +49,7 @@ Interesting fact - grid search was used to find good set of hyperparameters for 
 
 ![alt text](./1803_cnn_vs_rnn/t5.png)
 
-##### Afterworlds
+##### Afterword
 
 - If you know the length distribution of your data, it's time to try TCNs for your problem (as for me, pure dynamic lengths are almost never used in practical applications)
 - It's interesting to see experiments with pretrained W2V for LM tasks

@@ -67,7 +67,7 @@ Training process
 
 *what about the policy validation trick?*
 
-##### Afterworlds
+##### Afterword
 
 Questions
 

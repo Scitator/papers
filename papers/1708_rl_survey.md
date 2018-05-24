@@ -64,7 +64,7 @@ Current Research and challenges:
 - Memory and attention: *...it is possible to add a differentiable memory to the DQN, which allows it to more flexibly process information in its “working memory” [96].*
 - Transfer learning.
 
-##### Afterworlds
+##### Afterword
 
 Things to think about:
 

@@ -80,7 +80,7 @@ And hyperparameters value
 
 
 
-##### Afterworlds
+##### Afterword
 
 - A bit hacky theory - all about tabular setting, but in practice - DL used.
 - Still have a questions about value function approximation usage? Don't see any training stabilization by plots.

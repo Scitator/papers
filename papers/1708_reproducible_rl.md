@@ -26,7 +26,7 @@ How to measure RL agent performance?
 - ~~Run N experiments, take K best - you are done~~ (but it is how it works now)
 - Run N*100 experiments and measure reward mean and std (for each environment)
 
-##### Afterworlds
+##### Afterword
 
 Questions:
 

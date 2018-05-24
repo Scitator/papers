@@ -63,7 +63,7 @@ Multimodal behavior
 
 ![alt text](./1803_behavioral_cloning/multimodal.png)
 
-##### Afterworlds
+##### Afterword
 
 - The ball is a lie
 - As for me, setup with RNN over VRNN looks too complex

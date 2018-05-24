@@ -10,9 +10,9 @@
 
 - ​
 
-##### Afterworlds
+##### Afterword
 
-- ​
+- 
 
 ##### Interesting links
 

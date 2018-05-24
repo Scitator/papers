@@ -37,7 +37,7 @@ So, why it's do good?
 - Lastly, we have a competition (contest) - new OpeAI challenge for RL researches to solve this environment.
 
 
-##### Afterworlds
+##### Afterword
 
 - ​No time for questions - it's time to solve the contest.
 

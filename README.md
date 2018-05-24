@@ -7,7 +7,6 @@
 - Generative Multi-Agent Behavioral Cloning [[arxiv](https://arxiv.org/abs/1803.07612)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_behavioral_cloning.md)]
 - World Models [[arxiv](https://arxiv.org/abs/1803.10122)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_world_models.md)] 
 
-
 #### 2018-02
 
 - Model-Ensemble Trust-Region Policy Optimization [[arxiv](https://arxiv.org/abs/1802.10592)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1802_me_trpo.md)]
@@ -22,3 +21,6 @@
 
 #### 2017-03
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[arxiv](https://arxiv.org/abs/1703.03400)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1703_maml.md)]
+
+#### 2017-02
+- Cognitive Mapping and Planning for Visual Navigation [[arxiv](https://arxiv.org/abs/1702.03920)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1702_cmp.md)]

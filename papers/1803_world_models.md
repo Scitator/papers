@@ -37,7 +37,7 @@ Unfortunately, something can go wrong - agent can learn policy to cheat in the d
 
 By the way, all this 2 experiments beated the Gym leaderboard for this environments. So, take a look at the ideas.
 
-##### Afterworlds
+##### Afterword
 
 By reading this article I come to the idea: if we can simulation *done* for the environmet, can we also simulatio some advantage reward function? Something like,  the measure of usefulness of transition from one state to another?
 
