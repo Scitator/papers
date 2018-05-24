@@ -6,6 +6,7 @@
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [[arxiv](https://arxiv.org/abs/1803.01271)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_cnn_vs_rnn.md)]
 - Generative Multi-Agent Behavioral Cloning [[arxiv](https://arxiv.org/abs/1803.07612)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_behavioral_cloning.md)]
 - World Models [[arxiv](https://arxiv.org/abs/1803.10122)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_world_models.md)] 
+- Semi-parametric Topological Memory for Navigation [[arxiv](https://arxiv.org/abs/1803.00653)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_sptm.md)] 
 
 #### 2018-02
 
