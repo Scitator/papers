@@ -1,4 +1,4 @@
-# [ Progress & Compress: A scalable framework for continual learning](https://arxiv.org/abs/1805.06370)
+# [Progress & Compress: A scalable framework for continual learning](https://arxiv.org/abs/1805.06370)
 
 ##### TLDR
 
