@@ -2,21 +2,21 @@
 
 ##### TLDR
 
-Idea:
+###### Idea:
 
 Updated version of progressive networks. Rather than every time add new column, let's reformulate task and have only one knowledge column and tine task-specific columns (progress phase) to refresh parameters of th eknowledge one (compress phase).
 
 ![alt text](./1805_progress_compress/f1.png)
 
-Compress phase objective:
+###### Compress phase objective:
 
 ![alt text](./1805_progress_compress/objective_kb.png)
 
-Progress pahse objective:
+###### Progress pahse objective:
 
 ![alt text](./1805_progress_compress/objective_task.png)
 
-Results:
+###### Results:
 
 ![alt text](./1805_progress_compress/f2.png)
 
@@ -24,7 +24,7 @@ Results:
 
 ![alt text](./1805_progress_compress/t1.png)
 
-Progressive net addition, a bit about adaptors:
+###### Progressive net addition, a bit about adaptors:
 
 ![alt text](./1805_progress_compress/adaptors.png)
 

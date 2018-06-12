@@ -1,5 +1,6 @@
 #### 2018-05
 - Progress & Compress: A scalable framework for continual learning [[arxiv](https://arxiv.org/abs/1805.06370)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1805_progress_compress.md)]
+- Playing hard exploration games by watching YouTube [[arxiv](https://arxiv.org/abs/1805.11592)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1805_youtube.md)]
 #### 2018-04
 - DORA The Explorer: Directed Outreaching Reinforcement Action-Selection [[arxiv](https://arxiv.org/abs/1804.04012)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1804_dora.md)]
 - Gotta Learn Fast: A New Benchmark for Generalization in RL [[arxiv](https://arxiv.org/abs/1804.03720)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1804_gotta_learn_fast.md)]

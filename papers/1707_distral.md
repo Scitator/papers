@@ -4,12 +4,12 @@
 
 Presenataion – https://www.youtube.com/watch?v=scf7Przmh7c
 
-How it looks:
+###### How it looks:
 ![alt text](./1707_distral/f1.png)
 
-Objectvive:
+###### Objectvive:
 
 ![alt text](./1707_distral/objective.png)
 
-Intuition:
+###### Intuition:
 We try to learn one common policy for several different levels of the game (simulation, etc). So we add additional regularization term (c<sub>KL</sub>) to get our level-policy close to common one. (Similar idea to PPO one?)
