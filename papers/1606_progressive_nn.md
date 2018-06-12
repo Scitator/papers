@@ -3,14 +3,16 @@
 ##### TLDR
 
 Additional article – [Sim-to-Real Robot Learning from Pixels with Progressive Nets](https://arxiv.org/abs/1610.04286)
+
 Presentation – https://www.youtube.com/watch?v=aWAP_CWEtSI
+
 Slides – http://juxi.net/workshop/deep-learning-rss-2016/slides/Raia_Hadsell_RSS_DL_workshop.pdf
 
 
 
 Idea:
 
-![alt text](./1606_ progressive_nn/main.png)
+![alt text](./1606_progressive_nn/main.png)
 
 
 
@@ -22,4 +24,4 @@ Results:
 
 Additionally, we can analyse what blocks are used with different setups of knowledge transferring.
 
-![alt text](./1606_ progressive_nn/results.png)
+![alt text](./1606_progressive_nn/results.png)

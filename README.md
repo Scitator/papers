@@ -23,7 +23,7 @@
 - Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control [[arxiv](https://arxiv.org/abs/1708.04133)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1708_reproducible_rl.md)]
 
 #### 2017-07
-- Distral: Robust Multitask Reinforcement Learning [[arxiv](https://arxiv.org/abs/1707.04175)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1703_distral.md)]
+- Distral: Robust Multitask Reinforcement Learning [[arxiv](https://arxiv.org/abs/1707.04175)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1707_distral.md)]
 
 #### 2017-03
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[arxiv](https://arxiv.org/abs/1703.03400)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1703_maml.md)]
