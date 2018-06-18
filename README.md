@@ -10,6 +10,7 @@
 - Generative Multi-Agent Behavioral Cloning [[arxiv](https://arxiv.org/abs/1803.07612)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_behavioral_cloning.md)]
 - World Models [[arxiv](https://arxiv.org/abs/1803.10122)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_world_models.md)] 
 - Semi-parametric Topological Memory for Navigation [[arxiv](https://arxiv.org/abs/1803.00653)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_sptm.md)] 
+- A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay [[arxiv](https://arxiv.org/abs/1803.09820)] & [[notes](https://github.com/Scitator/papers/blob/master/papers/1803_smith_part1.md)] 
 
 #### 2018-02
 
